@@ -9,6 +9,7 @@ public class EvenOdd{
         else{
             System.out.println("Number is Odd");
         }
+        scanner.close();
 
     }
 }

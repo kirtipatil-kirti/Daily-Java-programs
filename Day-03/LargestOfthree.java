@@ -15,6 +15,8 @@ public class LargestOfthree {
         else{
             System.out.println("This is largest "+c);
         }
+        sc.close();
+        
     }
     
 }

@@ -13,6 +13,7 @@ public class PositiveNegativeZero {
         else{
             System.out.println("Zero");
         }
+        sc.close();
     }
     
 }
